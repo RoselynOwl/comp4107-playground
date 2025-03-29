@@ -1,4 +1,4 @@
-package hk.edu.hkbu.comp.comp4107.playground.SoLaiNa
+package hk.edu.hkbu.comp.comp4107.playground.solaina
 
 class SelfIntroduction {
     fun selfIntroduction() {

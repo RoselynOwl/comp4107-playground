@@ -1,5 +1,4 @@
-package hk.edu.hkbu.comp.comp4107.playground
-
+package hk.edu.hkbu.comp.comp4107.playground.solaina
 import hk.edu.hkbu.comp.comp4107.playground.kennycheng.SelfIntro
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -15,4 +14,5 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
     }
+    SelfIntroduction().selfIntroduction()
 }
