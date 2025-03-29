@@ -1,5 +1,6 @@
 package hk.edu.hkbu.comp.comp4107.playground.solaina
 import hk.edu.hkbu.comp.comp4107.playground.kennycheng.SelfIntro
+import hk.edu.hkbu.comp.comp4107.playground.solaina.solaina.SelfIntroduction
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
